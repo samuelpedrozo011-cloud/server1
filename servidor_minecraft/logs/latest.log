@@ -1,0 +1,189 @@
+[25Oct2025 16:20:14.786] [main/INFO] [cpw.mods.modlauncher.Launcher/MODLAUNCHER]: ModLauncher running: args [--launchTarget, forge_server, nogui]
+[25Oct2025 16:20:14.788] [main/INFO] [cpw.mods.modlauncher.Launcher/MODLAUNCHER]: JVM identified as Ubuntu OpenJDK 64-Bit Server VM 21.0.8+9-Ubuntu-0ubuntu124.04.1
+[25Oct2025 16:20:14.789] [main/INFO] [cpw.mods.modlauncher.Launcher/MODLAUNCHER]: ModLauncher 10.2.4 starting: java version 21.0.8 by Ubuntu; OS Linux arch amd64 version 6.8.0-1030-azure
+[25Oct2025 16:20:14.952] [main/INFO] [net.minecraftforge.fml.loading.ImmediateWindowHandler/]: ImmediateWindowProvider not loading because launch target is forge_server
+[25Oct2025 16:20:15.066] [main/INFO] [mixin/]: SpongePowered MIXIN Subsystem Version=0.8.7 Source=jar:file:///workspaces/server1/servidor_minecraft/libraries/org/spongepowered/mixin/0.8.7/mixin-0.8.7.jar!/ Service=ModLauncher Env=SERVER
+[25Oct2025 16:20:15.380] [main/INFO] [net.minecraftforge.fml.loading.moddiscovery.JarInJarDependencyLocator/]: Found 2 dependencies adding them to mods collection
+[25Oct2025 16:20:16.156] [main/INFO] [mixin/]: Compatibility level set to JAVA_17
+[25Oct2025 16:20:16.180] [main/INFO] [cpw.mods.modlauncher.LaunchServiceHandler/MODLAUNCHER]: Launching target 'forge_server' with arguments [nogui]
+[25Oct2025 16:20:16.324] [main/WARN] [mixin/]: Reference map 'glitchcore.refmap.json' for glitchcore.mixins.json could not be read. If this is a development environment you can ignore this message
+[25Oct2025 16:20:16.325] [main/WARN] [mixin/]: Reference map 'glitchcore.refmap.json' for glitchcore.forge.mixins.json could not be read. If this is a development environment you can ignore this message
+[25Oct2025 16:20:16.327] [main/WARN] [mixin/]: Reference map 'toughasnails.refmap.json' for toughasnails.mixins.json could not be read. If this is a development environment you can ignore this message
+[25Oct2025 16:20:16.328] [main/WARN] [mixin/]: Reference map 'toughasnails.refmap.json' for toughasnails.forge.mixins.json could not be read. If this is a development environment you can ignore this message
+[25Oct2025 16:20:16.330] [main/WARN] [mixin/]: Reference map 'konkrete.refmap.json' for konkrete.forge.mixins.json could not be read. If this is a development environment you can ignore this message
+[25Oct2025 16:20:16.331] [main/WARN] [mixin/]: Reference map 'konkrete.refmap.json' for konkrete.mixins.json could not be read. If this is a development environment you can ignore this message
+[25Oct2025 16:20:17.136] [main/INFO] [MixinExtras|Service/]: Initializing MixinExtras via com.llamalad7.mixinextras.service.MixinExtrasServiceImpl(version=0.4.1).
+[25Oct2025 16:20:21.837] [modloading-worker-0/INFO] [net.minecraftforge.common.ForgeMod/FORGEMOD]: Forge mod loading, version 54.1.0, for MC 1.21.4 with MCP 20241203.143248
+[25Oct2025 16:20:21.837] [modloading-worker-0/INFO] [net.minecraftforge.common.MinecraftForge/FORGE]: MinecraftForge v54.1.0 Initialized
+[25Oct2025 16:20:21.858] [modloading-worker-0/INFO] [net.minecraftforge.common.ForgeMod/FORGEMOD]: Opening jdk.naming.dns/com.sun.jndi.dns to java.naming
+[25Oct2025 16:20:21.897] [modloading-worker-0/INFO] [de.keksuccino.konkrete.Konkrete/]: [KONKRETE] Loading v1.9.10 in server-side mode on FORGE!
+[25Oct2025 16:20:21.898] [modloading-worker-0/INFO] [de.keksuccino.konkrete.Konkrete/]: ---------------------------
+[25Oct2025 16:20:21.898] [modloading-worker-0/INFO] [de.keksuccino.konkrete.Konkrete/]: KONKRETE SHIPS AND USES THE FOLLOWING LIBRARIES:
+[25Oct2025 16:20:21.898] [modloading-worker-0/INFO] [de.keksuccino.konkrete.Konkrete/]:  
+[25Oct2025 16:20:21.898] [modloading-worker-0/INFO] [de.keksuccino.konkrete.Konkrete/]: Open Imaging Copyright © 2014 Dhyan Blum.
+[25Oct2025 16:20:21.899] [modloading-worker-0/INFO] [de.keksuccino.konkrete.Konkrete/]: Open Imaging is licensed under Apache-2.0.
+[25Oct2025 16:20:21.899] [modloading-worker-0/INFO] [de.keksuccino.konkrete.Konkrete/]:  
+[25Oct2025 16:20:21.899] [modloading-worker-0/INFO] [de.keksuccino.konkrete.Konkrete/]: JsonPath Copyright © 2017 Jayway.
+[25Oct2025 16:20:21.899] [modloading-worker-0/INFO] [de.keksuccino.konkrete.Konkrete/]: JsonPath is licensed under Apache-2.0.
+[25Oct2025 16:20:21.899] [modloading-worker-0/INFO] [de.keksuccino.konkrete.Konkrete/]:  
+[25Oct2025 16:20:21.899] [modloading-worker-0/INFO] [de.keksuccino.konkrete.Konkrete/]: Json-smart Copyright © netplex.
+[25Oct2025 16:20:21.900] [modloading-worker-0/INFO] [de.keksuccino.konkrete.Konkrete/]: Json-smart is licensed under Apache-2.0.
+[25Oct2025 16:20:21.900] [modloading-worker-0/INFO] [de.keksuccino.konkrete.Konkrete/]:  
+[25Oct2025 16:20:21.900] [modloading-worker-0/INFO] [de.keksuccino.konkrete.Konkrete/]: Exp4j Copyright © Frank Asseg.
+[25Oct2025 16:20:21.900] [modloading-worker-0/INFO] [de.keksuccino.konkrete.Konkrete/]: Exp4j is licensed under Apache-2.0. https://github.com/fasseg/exp4j
+[25Oct2025 16:20:21.900] [modloading-worker-0/INFO] [de.keksuccino.konkrete.Konkrete/]: ---------------------------
+[25Oct2025 16:20:21.900] [modloading-worker-0/INFO] [de.keksuccino.konkrete.Konkrete/]: [KONKRETE] Server-side modules initialized and ready to use!
+[25Oct2025 16:20:21.926] [modloading-worker-0/INFO] [glitchcore/]: Registered synced config with path toughasnails/thirst.toml
+[25Oct2025 16:20:21.928] [modloading-worker-0/INFO] [glitchcore/]: Registered synced config with path toughasnails/temperature.toml
+[25Oct2025 16:20:21.930] [modloading-worker-0/INFO] [Collective/]: Loading Collective version 8.3.
+[25Oct2025 16:20:22.142] [main/WARN] [net.minecraftforge.common.ForgeConfigSpec/CORE]: Configuration file /workspaces/server1/servidor_minecraft/config/smallships-common.toml is not correct. Correcting
+[25Oct2025 16:20:22.143] [main/WARN] [net.minecraftforge.common.ForgeConfigSpec/CORE]: Incorrect key schematicVersion was corrected from null to its default, 5. 
+[25Oct2025 16:20:22.144] [main/WARN] [net.minecraftforge.common.ForgeConfigSpec/CORE]: Incorrect key Ship was corrected from null to its default, SynchronizedConfig{DataHolder:{}}. 
+[25Oct2025 16:20:22.144] [main/WARN] [net.minecraftforge.common.ForgeConfigSpec/CORE]: Incorrect key Ship.General was corrected from null to its default, SynchronizedConfig{DataHolder:{}}. 
+[25Oct2025 16:20:22.144] [main/WARN] [net.minecraftforge.common.ForgeConfigSpec/CORE]: Incorrect key Ship.General.shipGeneralSailCooldown was corrected from null to its default, 30. 
+[25Oct2025 16:20:22.144] [main/WARN] [net.minecraftforge.common.ForgeConfigSpec/CORE]: Incorrect key Ship.General.shipGeneralCollisionDamage was corrected from null to its default, 7.5. 
+[25Oct2025 16:20:22.145] [main/WARN] [net.minecraftforge.common.ForgeConfigSpec/CORE]: Incorrect key Ship.General.shipGeneralCollisionKnockBack was corrected from null to its default, true. 
+[25Oct2025 16:20:22.145] [main/WARN] [net.minecraftforge.common.ForgeConfigSpec/CORE]: Incorrect key Ship.General.shipGeneralDoItemDrop was corrected from null to its default, true. 
+[25Oct2025 16:20:22.146] [main/WARN] [net.minecraftforge.common.ForgeConfigSpec/CORE]: Incorrect key Ship.General.Modifier was corrected from null to its default, SynchronizedConfig{DataHolder:{}}. 
+[25Oct2025 16:20:22.146] [main/WARN] [net.minecraftforge.common.ForgeConfigSpec/CORE]: Incorrect key Ship.General.Modifier.shipGeneralContainerModifier was corrected from null to its default, 10.0. 
+[25Oct2025 16:20:22.146] [main/WARN] [net.minecraftforge.common.ForgeConfigSpec/CORE]: Incorrect key Ship.General.Modifier.shipGeneralCannonModifier was corrected from null to its default, 2.5. 
+[25Oct2025 16:20:22.146] [main/WARN] [net.minecraftforge.common.ForgeConfigSpec/CORE]: Incorrect key Ship.General.Modifier.shipGeneralPaddlingModifier was corrected from null to its default, 35.0. 
+[25Oct2025 16:20:22.146] [main/WARN] [net.minecraftforge.common.ForgeConfigSpec/CORE]: Incorrect key Ship.General.Modifier.shipGeneralBiomeModifier was corrected from null to its default, 20.0. 
+[25Oct2025 16:20:22.147] [main/WARN] [net.minecraftforge.common.ForgeConfigSpec/CORE]: Incorrect key Ship.General.Modifier.shipGeneralShieldDamageReduction was corrected from null to its default, 3.0. 
+[25Oct2025 16:20:22.147] [main/WARN] [net.minecraftforge.common.ForgeConfigSpec/CORE]: Incorrect key Ship.General.Modifier.shipGeneralDespawnTimeSunken was corrected from null to its default, 15.0. 
+[25Oct2025 16:20:22.147] [main/WARN] [net.minecraftforge.common.ForgeConfigSpec/CORE]: Incorrect key Ship.General.Modifier.mountBlackList was corrected from null to its default, [minecraft:ender_dragon, minecraft:wither, minecraft:wither, minecraft:ghast, minecraft:warden, minecraft:ravager, alexmobs:cachalot_whale]. 
+[25Oct2025 16:20:22.147] [main/WARN] [net.minecraftforge.common.ForgeConfigSpec/CORE]: Incorrect key Ship.General.Modifier.shipGeneralCannonDamage was corrected from null to its default, 25.0. 
+[25Oct2025 16:20:22.147] [main/WARN] [net.minecraftforge.common.ForgeConfigSpec/CORE]: Incorrect key Ship.General.Modifier.shipGeneralCannonDestruction was corrected from null to its default, 1.0. 
+[25Oct2025 16:20:22.149] [main/WARN] [net.minecraftforge.common.ForgeConfigSpec/CORE]: Incorrect key Ship.General.Fleeing Water Animals was corrected from null to its default, SynchronizedConfig{DataHolder:{}}. 
+[25Oct2025 16:20:22.149] [main/WARN] [net.minecraftforge.common.ForgeConfigSpec/CORE]: Incorrect key Ship.General.Fleeing Water Animals.waterAnimalFleeRadius was corrected from null to its default, 15.0. 
+[25Oct2025 16:20:22.150] [main/WARN] [net.minecraftforge.common.ForgeConfigSpec/CORE]: Incorrect key Ship.General.Fleeing Water Animals.waterAnimalFleeSpeed was corrected from null to its default, 1.5. 
+[25Oct2025 16:20:22.150] [main/WARN] [net.minecraftforge.common.ForgeConfigSpec/CORE]: Incorrect key Ship.General.Fleeing Water Animals.waterAnimalFleeDistance was corrected from null to its default, 10.0. 
+[25Oct2025 16:20:22.150] [main/WARN] [net.minecraftforge.common.ForgeConfigSpec/CORE]: Incorrect key Ship.Cog was corrected from null to its default, SynchronizedConfig{DataHolder:{}}. 
+[25Oct2025 16:20:22.150] [main/WARN] [net.minecraftforge.common.ForgeConfigSpec/CORE]: Incorrect key Ship.Cog.Attributes was corrected from null to its default, SynchronizedConfig{DataHolder:{}}. 
+[25Oct2025 16:20:22.150] [main/WARN] [net.minecraftforge.common.ForgeConfigSpec/CORE]: Incorrect key Ship.Cog.Attributes.shipAttributeCogMaxHealth was corrected from null to its default, 300.0. 
+[25Oct2025 16:20:22.151] [main/WARN] [net.minecraftforge.common.ForgeConfigSpec/CORE]: Incorrect key Ship.Cog.Attributes.shipAttributeCogMaxSpeed was corrected from null to its default, 30.0. 
+[25Oct2025 16:20:22.151] [main/WARN] [net.minecraftforge.common.ForgeConfigSpec/CORE]: Incorrect key Ship.Cog.Attributes.shipAttributeCogMaxReverseSpeed was corrected from null to its default, 0.1. 
+[25Oct2025 16:20:22.151] [main/WARN] [net.minecraftforge.common.ForgeConfigSpec/CORE]: Incorrect key Ship.Cog.Attributes.shipAttributeCogMaxRotationSpeed was corrected from null to its default, 4.5. 
+[25Oct2025 16:20:22.151] [main/WARN] [net.minecraftforge.common.ForgeConfigSpec/CORE]: Incorrect key Ship.Cog.Attributes.shipAttributeCogAcceleration was corrected from null to its default, 0.015. 
+[25Oct2025 16:20:22.151] [main/WARN] [net.minecraftforge.common.ForgeConfigSpec/CORE]: Incorrect key Ship.Cog.Attributes.shipAttributeCogRotationAcceleration was corrected from null to its default, 0.7. 
+[25Oct2025 16:20:22.151] [main/WARN] [net.minecraftforge.common.ForgeConfigSpec/CORE]: Incorrect key Ship.Cog.Container was corrected from null to its default, SynchronizedConfig{DataHolder:{}}. 
+[25Oct2025 16:20:22.151] [main/WARN] [net.minecraftforge.common.ForgeConfigSpec/CORE]: Incorrect key Ship.Cog.Container.shipContainerCogContainerSize was corrected from null to its default, 108. 
+[25Oct2025 16:20:22.152] [main/WARN] [net.minecraftforge.common.ForgeConfigSpec/CORE]: Incorrect key Ship.Cog.Modifier was corrected from null to its default, SynchronizedConfig{DataHolder:{}}. 
+[25Oct2025 16:20:22.152] [main/WARN] [net.minecraftforge.common.ForgeConfigSpec/CORE]: Incorrect key Ship.Cog.Modifier.shipModifierCogBiome was corrected from null to its default, COLD. 
+[25Oct2025 16:20:22.152] [main/WARN] [net.minecraftforge.common.ForgeConfigSpec/CORE]: Incorrect key Ship.Brigg was corrected from null to its default, SynchronizedConfig{DataHolder:{}}. 
+[25Oct2025 16:20:22.152] [main/WARN] [net.minecraftforge.common.ForgeConfigSpec/CORE]: Incorrect key Ship.Brigg.Attributes was corrected from null to its default, SynchronizedConfig{DataHolder:{}}. 
+[25Oct2025 16:20:22.152] [main/WARN] [net.minecraftforge.common.ForgeConfigSpec/CORE]: Incorrect key Ship.Brigg.Attributes.shipAttributeBriggMaxHealth was corrected from null to its default, 450.0. 
+[25Oct2025 16:20:22.153] [main/WARN] [net.minecraftforge.common.ForgeConfigSpec/CORE]: Incorrect key Ship.Brigg.Attributes.shipAttributeBriggMaxSpeed was corrected from null to its default, 35.0. 
+[25Oct2025 16:20:22.153] [main/WARN] [net.minecraftforge.common.ForgeConfigSpec/CORE]: Incorrect key Ship.Brigg.Attributes.shipAttributeBriggMaxReverseSpeed was corrected from null to its default, 0.1. 
+[25Oct2025 16:20:22.153] [main/WARN] [net.minecraftforge.common.ForgeConfigSpec/CORE]: Incorrect key Ship.Brigg.Attributes.shipAttributeBriggMaxRotationSpeed was corrected from null to its default, 4.0. 
+[25Oct2025 16:20:22.153] [main/WARN] [net.minecraftforge.common.ForgeConfigSpec/CORE]: Incorrect key Ship.Brigg.Attributes.shipAttributeBriggAcceleration was corrected from null to its default, 0.015. 
+[25Oct2025 16:20:22.153] [main/WARN] [net.minecraftforge.common.ForgeConfigSpec/CORE]: Incorrect key Ship.Brigg.Attributes.shipAttributeBriggRotationAcceleration was corrected from null to its default, 0.55. 
+[25Oct2025 16:20:22.153] [main/WARN] [net.minecraftforge.common.ForgeConfigSpec/CORE]: Incorrect key Ship.Brigg.Container was corrected from null to its default, SynchronizedConfig{DataHolder:{}}. 
+[25Oct2025 16:20:22.154] [main/WARN] [net.minecraftforge.common.ForgeConfigSpec/CORE]: Incorrect key Ship.Brigg.Container.shipContainerBriggContainerSize was corrected from null to its default, 162. 
+[25Oct2025 16:20:22.154] [main/WARN] [net.minecraftforge.common.ForgeConfigSpec/CORE]: Incorrect key Ship.Brigg.Modifier was corrected from null to its default, SynchronizedConfig{DataHolder:{}}. 
+[25Oct2025 16:20:22.154] [main/WARN] [net.minecraftforge.common.ForgeConfigSpec/CORE]: Incorrect key Ship.Brigg.Modifier.shipModifierBriggBiome was corrected from null to its default, COLD. 
+[25Oct2025 16:20:22.154] [main/WARN] [net.minecraftforge.common.ForgeConfigSpec/CORE]: Incorrect key Ship.Galley was corrected from null to its default, SynchronizedConfig{DataHolder:{}}. 
+[25Oct2025 16:20:22.154] [main/WARN] [net.minecraftforge.common.ForgeConfigSpec/CORE]: Incorrect key Ship.Galley.Attributes was corrected from null to its default, SynchronizedConfig{DataHolder:{}}. 
+[25Oct2025 16:20:22.155] [main/WARN] [net.minecraftforge.common.ForgeConfigSpec/CORE]: Incorrect key Ship.Galley.Attributes.shipAttributeGalleyMaxHealth was corrected from null to its default, 200.0. 
+[25Oct2025 16:20:22.155] [main/WARN] [net.minecraftforge.common.ForgeConfigSpec/CORE]: Incorrect key Ship.Galley.Attributes.shipAttributeGalleyMaxSpeed was corrected from null to its default, 30.0. 
+[25Oct2025 16:20:22.155] [main/WARN] [net.minecraftforge.common.ForgeConfigSpec/CORE]: Incorrect key Ship.Galley.Attributes.shipAttributeGalleyMaxReverseSpeed was corrected from null to its default, 0.1. 
+[25Oct2025 16:20:22.155] [main/WARN] [net.minecraftforge.common.ForgeConfigSpec/CORE]: Incorrect key Ship.Galley.Attributes.shipAttributeGalleyMaxRotationSpeed was corrected from null to its default, 5.0. 
+[25Oct2025 16:20:22.155] [main/WARN] [net.minecraftforge.common.ForgeConfigSpec/CORE]: Incorrect key Ship.Galley.Attributes.shipAttributeGalleyAcceleration was corrected from null to its default, 0.015. 
+[25Oct2025 16:20:22.155] [main/WARN] [net.minecraftforge.common.ForgeConfigSpec/CORE]: Incorrect key Ship.Galley.Attributes.shipAttributeGalleyRotationAcceleration was corrected from null to its default, 1.0. 
+[25Oct2025 16:20:22.156] [main/WARN] [net.minecraftforge.common.ForgeConfigSpec/CORE]: Incorrect key Ship.Galley.Container was corrected from null to its default, SynchronizedConfig{DataHolder:{}}. 
+[25Oct2025 16:20:22.156] [main/WARN] [net.minecraftforge.common.ForgeConfigSpec/CORE]: Incorrect key Ship.Galley.Container.shipContainerGalleyContainerSize was corrected from null to its default, 54. 
+[25Oct2025 16:20:22.156] [main/WARN] [net.minecraftforge.common.ForgeConfigSpec/CORE]: Incorrect key Ship.Galley.Modifier was corrected from null to its default, SynchronizedConfig{DataHolder:{}}. 
+[25Oct2025 16:20:22.156] [main/WARN] [net.minecraftforge.common.ForgeConfigSpec/CORE]: Incorrect key Ship.Galley.Modifier.shipModifierGalleyBiome was corrected from null to its default, WARM. 
+[25Oct2025 16:20:22.156] [main/WARN] [net.minecraftforge.common.ForgeConfigSpec/CORE]: Incorrect key Ship.Drakkar was corrected from null to its default, SynchronizedConfig{DataHolder:{}}. 
+[25Oct2025 16:20:22.156] [main/WARN] [net.minecraftforge.common.ForgeConfigSpec/CORE]: Incorrect key Ship.Drakkar.Attributes was corrected from null to its default, SynchronizedConfig{DataHolder:{}}. 
+[25Oct2025 16:20:22.156] [main/WARN] [net.minecraftforge.common.ForgeConfigSpec/CORE]: Incorrect key Ship.Drakkar.Attributes.shipAttributeDrakkarMaxHealth was corrected from null to its default, 200.0. 
+[25Oct2025 16:20:22.157] [main/WARN] [net.minecraftforge.common.ForgeConfigSpec/CORE]: Incorrect key Ship.Drakkar.Attributes.shipAttributeDrakkarMaxSpeed was corrected from null to its default, 30.0. 
+[25Oct2025 16:20:22.157] [main/WARN] [net.minecraftforge.common.ForgeConfigSpec/CORE]: Incorrect key Ship.Drakkar.Attributes.shipAttributeDrakkarMaxReverseSpeed was corrected from null to its default, 0.1. 
+[25Oct2025 16:20:22.157] [main/WARN] [net.minecraftforge.common.ForgeConfigSpec/CORE]: Incorrect key Ship.Drakkar.Attributes.shipAttributeDrakkarMaxRotationSpeed was corrected from null to its default, 5.0. 
+[25Oct2025 16:20:22.157] [main/WARN] [net.minecraftforge.common.ForgeConfigSpec/CORE]: Incorrect key Ship.Drakkar.Attributes.shipAttributeDrakkarAcceleration was corrected from null to its default, 0.015. 
+[25Oct2025 16:20:22.157] [main/WARN] [net.minecraftforge.common.ForgeConfigSpec/CORE]: Incorrect key Ship.Drakkar.Attributes.shipAttributeDrakkarRotationAcceleration was corrected from null to its default, 1.0. 
+[25Oct2025 16:20:22.158] [main/WARN] [net.minecraftforge.common.ForgeConfigSpec/CORE]: Incorrect key Ship.Drakkar.Container was corrected from null to its default, SynchronizedConfig{DataHolder:{}}. 
+[25Oct2025 16:20:22.158] [main/WARN] [net.minecraftforge.common.ForgeConfigSpec/CORE]: Incorrect key Ship.Drakkar.Container.shipContainerDrakkarContainerSize was corrected from null to its default, 54. 
+[25Oct2025 16:20:22.158] [main/WARN] [net.minecraftforge.common.ForgeConfigSpec/CORE]: Incorrect key Ship.Drakkar.Modifier was corrected from null to its default, SynchronizedConfig{DataHolder:{}}. 
+[25Oct2025 16:20:22.158] [main/WARN] [net.minecraftforge.common.ForgeConfigSpec/CORE]: Incorrect key Ship.Drakkar.Modifier.shipModifierDrakkarBiome was corrected from null to its default, COLD. 
+[25Oct2025 16:20:22.303] [Forge Version Check/INFO] [net.minecraftforge.fml.VersionChecker/]: [mr_dungeons_andtaverns] Starting version check at https://api.modrinth.com/updates/tpehi7ww/forge_updates.json
+[25Oct2025 16:20:22.698] [Forge Version Check/INFO] [net.minecraftforge.fml.VersionChecker/]: [mr_dungeons_andtaverns] Found status: AHEAD Current: 1-v4.6.3 Target: null
+[25Oct2025 16:20:22.698] [Forge Version Check/INFO] [net.minecraftforge.fml.VersionChecker/]: [smallships] Starting version check at https://raw.githubusercontent.com/talhanation/smallships/main/update.json
+[25Oct2025 16:20:22.743] [Forge Version Check/INFO] [net.minecraftforge.fml.VersionChecker/]: [smallships] Found status: BETA Current: 2.0.0-b2.1 Target: null
+[25Oct2025 16:20:22.743] [Forge Version Check/INFO] [net.minecraftforge.fml.VersionChecker/]: [forge] Starting version check at https://files.minecraftforge.net/net/minecraftforge/forge/promotions_slim.json
+[25Oct2025 16:20:22.819] [Forge Version Check/INFO] [net.minecraftforge.fml.VersionChecker/]: [forge] Found status: UP_TO_DATE Current: 54.1.0 Target: null
+[25Oct2025 16:20:23.266] [main/INFO] [com.mojang.authlib.yggdrasil.YggdrasilAuthenticationService/]: Environment: Environment[sessionHost=https://sessionserver.mojang.com, servicesHost=https://api.minecraftservices.com, name=PROD]
+[25Oct2025 16:20:25.596] [main/INFO] [net.minecraft.world.item.crafting.RecipeManager/]: Loaded 1458 recipes
+[25Oct2025 16:20:25.619] [main/INFO] [net.minecraft.advancements.AdvancementTree/]: Loaded 1606 advancements
+[25Oct2025 16:20:25.752] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: Starting minecraft server version 1.21.4
+[25Oct2025 16:20:25.753] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: Loading properties
+[25Oct2025 16:20:25.753] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: Default game type: SURVIVAL
+[25Oct2025 16:20:25.754] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Generating keypair
+[25Oct2025 16:20:25.853] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: Starting Minecraft server on *:25565
+[25Oct2025 16:20:25.892] [Server thread/INFO] [net.minecraft.server.network.ServerConnectionListener/]: Using epoll channel type
+[25Oct2025 16:20:25.937] [Server thread/WARN] [net.minecraft.server.dedicated.DedicatedServer/]: **** SERVER IS RUNNING IN OFFLINE/INSECURE MODE!
+[25Oct2025 16:20:25.938] [Server thread/WARN] [net.minecraft.server.dedicated.DedicatedServer/]: The server will make no attempt to authenticate usernames. Beware.
+[25Oct2025 16:20:25.938] [Server thread/WARN] [net.minecraft.server.dedicated.DedicatedServer/]: While this makes the game possible to play without internet access, it also opens up the ability for hackers to connect with any username they choose.
+[25Oct2025 16:20:25.938] [Server thread/WARN] [net.minecraft.server.dedicated.DedicatedServer/]: To change this, set "online-mode" to "true" in the server.properties file.
+[25Oct2025 16:20:25.981] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: Preparing level "world"
+[25Oct2025 16:20:26.225] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Preparing start region for dimension minecraft:overworld
+[25Oct2025 16:20:33.225] [Worker-Main-3/INFO] [net.minecraft.server.level.progress.LoggerChunkProgressListener/]: Preparing spawn area: 0%
+[25Oct2025 16:20:33.231] [Worker-Main-3/INFO] [net.minecraft.server.level.progress.LoggerChunkProgressListener/]: Preparing spawn area: 0%
+[25Oct2025 16:20:33.231] [Worker-Main-3/INFO] [net.minecraft.server.level.progress.LoggerChunkProgressListener/]: Preparing spawn area: 0%
+[25Oct2025 16:20:33.231] [Worker-Main-3/INFO] [net.minecraft.server.level.progress.LoggerChunkProgressListener/]: Preparing spawn area: 0%
+[25Oct2025 16:20:33.232] [Worker-Main-3/INFO] [net.minecraft.server.level.progress.LoggerChunkProgressListener/]: Preparing spawn area: 0%
+[25Oct2025 16:20:33.232] [Worker-Main-3/INFO] [net.minecraft.server.level.progress.LoggerChunkProgressListener/]: Preparing spawn area: 0%
+[25Oct2025 16:20:33.233] [Worker-Main-3/INFO] [net.minecraft.server.level.progress.LoggerChunkProgressListener/]: Preparing spawn area: 0%
+[25Oct2025 16:20:33.234] [Worker-Main-3/INFO] [net.minecraft.server.level.progress.LoggerChunkProgressListener/]: Preparing spawn area: 0%
+[25Oct2025 16:20:33.236] [Worker-Main-3/INFO] [net.minecraft.server.level.progress.LoggerChunkProgressListener/]: Preparing spawn area: 0%
+[25Oct2025 16:20:33.236] [Worker-Main-3/INFO] [net.minecraft.server.level.progress.LoggerChunkProgressListener/]: Preparing spawn area: 0%
+[25Oct2025 16:20:33.237] [Worker-Main-3/INFO] [net.minecraft.server.level.progress.LoggerChunkProgressListener/]: Preparing spawn area: 0%
+[25Oct2025 16:20:33.238] [Worker-Main-3/INFO] [net.minecraft.server.level.progress.LoggerChunkProgressListener/]: Preparing spawn area: 0%
+[25Oct2025 16:20:33.239] [Worker-Main-3/INFO] [net.minecraft.server.level.progress.LoggerChunkProgressListener/]: Preparing spawn area: 0%
+[25Oct2025 16:20:33.239] [Worker-Main-3/INFO] [net.minecraft.server.level.progress.LoggerChunkProgressListener/]: Preparing spawn area: 0%
+[25Oct2025 16:20:33.240] [Worker-Main-3/INFO] [net.minecraft.server.level.progress.LoggerChunkProgressListener/]: Preparing spawn area: 0%
+[25Oct2025 16:20:33.371] [Server thread/INFO] [net.minecraft.server.level.progress.LoggerChunkProgressListener/]: Time elapsed: 7145 ms
+[25Oct2025 16:20:33.372] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: Done (7.425s)! For help, type "help"
+[25Oct2025 16:20:33.385] [Server thread/INFO] [net.minecraftforge.server.permission.PermissionAPI/]: Successfully initialized permission handler forge:default_handler
+[25Oct2025 16:21:33.337] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Server empty for 60 seconds, pausing
+[25Oct2025 16:23:09.292] [Server thread/INFO] [net.minecraft.server.players.PlayerList/]: Simon[/127.44.17.115:58609] logged in with entity id 15 at (5.5, 74.0, -8.5)
+[25Oct2025 16:23:09.305] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Simon joined the game
+[25Oct2025 16:24:14.467] [Worker-Main-1/ERROR] [net.minecraft.world.entity.decoration.BlockAttachedEntity/]: Block-attached entity at invalid position: BlockPos{x=202, y=47, z=211}
+[25Oct2025 16:28:10.695] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Simon has made the advancement [Stone Age]
+[25Oct2025 16:28:53.916] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Simon has made the advancement [Getting an Upgrade]
+[25Oct2025 16:29:26.245] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Simon lost connection: Disconnected
+[25Oct2025 16:29:26.246] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Simon left the game
+[25Oct2025 16:30:26.237] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Server empty for 60 seconds, pausing
+[25Oct2025 16:31:15.788] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Stopping the server
+[25Oct2025 16:31:15.837] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Stopping server
+[25Oct2025 16:31:15.838] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Saving players
+[25Oct2025 16:31:15.839] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Saving worlds
+[25Oct2025 16:31:15.857] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Saving chunks for level 'ServerLevel[world]'/minecraft:overworld
+[25Oct2025 16:31:15.880] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Saving chunks for level 'ServerLevel[world]'/minecraft:the_nether
+[25Oct2025 16:31:15.884] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Saving chunks for level 'ServerLevel[world]'/minecraft:the_end
+[25Oct2025 16:31:15.913] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: ThreadedAnvilChunkStorage (world): All chunks are saved
+[25Oct2025 16:31:15.913] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: ThreadedAnvilChunkStorage (DIM-1): All chunks are saved
+[25Oct2025 16:31:15.914] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: ThreadedAnvilChunkStorage (DIM1): All chunks are saved
+[25Oct2025 16:31:15.914] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: ThreadedAnvilChunkStorage: All dimensions are saved
+[25Oct2025 16:31:16.471] [pool-3-thread-1/ERROR] [net.minecraftforge.fml.javafmlmod.FMLModContainer/]: Exception caught during firing event: Cannot invoke "com.electronwill.nightconfig.core.file.CommentedFileConfig.getNioPath()" because "this.configData" is null
+	Index: 1
+	Listeners:
+		0: NORMAL
+		1: ASM: class com.talhanation.smallships.forge.common.CommonModBus initRegisterConfigs(Lnet/minecraftforge/fml/event/config/ModConfigEvent;)V
+java.lang.NullPointerException: Cannot invoke "com.electronwill.nightconfig.core.file.CommentedFileConfig.getNioPath()" because "this.configData" is null
+	at LAYER PLUGIN/net.minecraftforge.fmlcore@1.21.4-54.1.0/net.minecraftforge.fml.config.ModConfig.getFullPath(ModConfig.java:84)
+	at TRANSFORMER/smallships@2.0.0-b2.1/com.talhanation.smallships.forge.common.CommonModBus.initRegisterConfigs(CommonModBus.java:38)
+	at TRANSFORMER/smallships@2.0.0-b2.1/com.talhanation.smallships.forge.common.__CommonModBus_initRegisterConfigs_ModConfigEvent.invoke(.dynamic)
+	at SECURE-BOOTSTRAP/net.minecraftforge.eventbus/net.minecraftforge.eventbus.ASMEventHandler.invoke(ASMEventHandler.java:46)
+	at SECURE-BOOTSTRAP/net.minecraftforge.eventbus/net.minecraftforge.eventbus.EventBus.post(EventBus.java:302)
+	at SECURE-BOOTSTRAP/net.minecraftforge.eventbus/net.minecraftforge.eventbus.EventBus.post(EventBus.java:288)
+	at LAYER PLUGIN/net.minecraftforge.javafmlmod@1.21.4-54.1.0/net.minecraftforge.fml.javafmlmod.FMLModContainer.dispatchConfigEvent(FMLModContainer.java:194)
+	at LAYER PLUGIN/net.minecraftforge.fmlcore@1.21.4-54.1.0/net.minecraftforge.fml.config.ModConfig.fireEvent(ModConfig.java:76)
+	at LAYER PLUGIN/net.minecraftforge.fmlcore@1.21.4-54.1.0/net.minecraftforge.fml.config.ConfigFileTypeHandler$ConfigWatcher.run(ConfigFileTypeHandler.java:202)
+	at java.base/java.util.concurrent.Executors$RunnableAdapter.call(Executors.java:572)
+	at java.base/java.util.concurrent.FutureTask.run(FutureTask.java:317)
+	at java.base/java.util.concurrent.ScheduledThreadPoolExecutor$ScheduledFutureTask.run(ScheduledThreadPoolExecutor.java:304)
+	at java.base/java.util.concurrent.ThreadPoolExecutor.runWorker(ThreadPoolExecutor.java:1144)
+	at java.base/java.util.concurrent.ThreadPoolExecutor$Worker.run(ThreadPoolExecutor.java:642)
+	at java.base/java.lang.Thread.run(Thread.java:1583)
+
